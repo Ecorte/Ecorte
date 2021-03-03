@@ -11,6 +11,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 - [French discord server](https://discord.gg/8bpy2PC)
 - [Twitter](https://twitter.com/Ecorteyt)
+- [Twitch](https://www.twitch.tv/ecorte)
 - [Youtube](https://www.youtube.com/channel/UCOLeHMtMSE4w6jpFGh1AAdA)
 
 🖥️ Here my top languages I code in (last 7 days):
