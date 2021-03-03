@@ -16,8 +16,8 @@ I code dumb stuff but sometimes they are pretty cool.
 
 🖥️ Here my top languages I code in :
 
-![chart](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact?theme=dark)
+![chart](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&count_private=true)
 
 🖥️ Github stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ecorte)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ecorte&count_private=true)
