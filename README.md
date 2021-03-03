@@ -14,8 +14,8 @@ I code dumb stuff but sometimes they are pretty cool.
 - [Twitch](https://www.twitch.tv/ecorte)
 - [Youtube](https://www.youtube.com/channel/UCOLeHMtMSE4w6jpFGh1AAdA)
 
-🖥️ Here my top languages I code in (last 7 days):
-![chart](https://wakatime.com/share/@56972754-0bc7-4425-ad9f-adea1fb42a70/df1a3b88-e7d4-4e0f-a55b-a0ddafccab6b.png)
+🖥️ Here my top languages I code in :
+![chart](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact?theme=dark)
 
 🖥️ Github stats:
 
