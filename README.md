@@ -16,7 +16,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 🖥️ Here my top languages I code in :
 
-![chart](https://github-readme-stats.vercel.app/api/wakatime?username=Ecorte&layout=compact&theme=dark&count_private=true)
+![chart](https://wakatime.com/share/@Ecorte/5233d777-0ee5-47be-ad89-f613f30560bf.png)
 
 🖥️ Github stats:
 
