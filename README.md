@@ -20,4 +20,4 @@ I code dumb stuff but sometimes they are pretty cool.
 
 🖥️ Github stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ecorte&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ecorte&theme=dark&count_private=true)
