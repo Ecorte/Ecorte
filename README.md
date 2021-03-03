@@ -1,16 +1,18 @@
 ### Hi there 👋
+I'm Ecorte and i'm 15.
+I code dumb stuff but somtime they pretty cool.
 
-<!--
-**Ecorte/ecorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my discord bot.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: Ecorte#0003 on discord.
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+🔗 Cool links:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[💬 French discord server](https://discord.gg/8bpy2PC)
+
+🖥️ Here my top languages I code in (last 7 days):
+![chart](https://wakatime.com/share/@56972754-0bc7-4425-ad9f-adea1fb42a70/df1a3b88-e7d4-4e0f-a55b-a0ddafccab6b.png)
+
+
+
