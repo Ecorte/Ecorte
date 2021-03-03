@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Ecorte and i'm 15.
+I’m Ecorte and I'm 15.
 I code dumb stuff but sometimes they are pretty cool.
 
 - 🔭 I’m currently working on my discord bot.
