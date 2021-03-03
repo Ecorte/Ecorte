@@ -18,4 +18,5 @@ I code dumb stuff but sometimes they are pretty cool.
 ![chart](https://wakatime.com/share/@56972754-0bc7-4425-ad9f-adea1fb42a70/df1a3b88-e7d4-4e0f-a55b-a0ddafccab6b.png)
 
 🖥️ Github stats:
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ecorte)
