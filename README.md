@@ -24,9 +24,10 @@ I code dumb stuff but sometimes they are pretty cool.
 
 <!--START_SECTION:waka-->
 ```text
-Python     4 hrs 12 mins   ██████████████████████▓░░   90.68 % 
-JSON       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Text       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python       2 hrs 56 mins   █████████████████████▓░░░   87.31 % 
+JSON         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Text         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
 
