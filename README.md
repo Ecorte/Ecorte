@@ -5,7 +5,10 @@ I code dumb stuff but sometimes they are pretty cool.
 -------
 
 - 🔭 I’m currently working on my discord bot.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning:
+       HTML
+       CSS
+       JavaScript
 - 📫 How to reach me: Ecorte#0003 on discord.
 - 😄 Pronouns: he/him
 
