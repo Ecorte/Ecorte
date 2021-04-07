@@ -23,7 +23,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 -------
 
-** Some of my projects**
+**➡️ Some of my projects**
 
 [sleepymaid](https://github-readme-stats.vercel.app/api/pin/?username=ecorte&repo=sleepymaid)
 
