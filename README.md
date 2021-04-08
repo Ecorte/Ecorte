@@ -25,7 +25,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 **➡️ Some of my projects**
 
-[sleepymaid](https://github-readme-stats.vercel.app/api/pin/?username=ecorte&repo=sleepymaid)
+[![sleepymaid](https://github-readme-stats.vercel.app/api/pin/?username=Le-monde-d-Ecorte&repo=sleepymaid)](https://github.com/anuraghazra/github-readme-stats)
 
 **📊 Weekly development breakdown**
 
