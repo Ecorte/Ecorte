@@ -30,8 +30,6 @@ I code dumb stuff but sometimes they are pretty cool.
 
 -------
 
-**📊 Weekly development breakdown**
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
