@@ -28,6 +28,8 @@ I code dumb stuff but sometimes they are pretty cool.
 [![sleepymaid](https://github-readme-stats.vercel.app/api/pin/?username=Le-monde-d-Ecorte&repo=sleepymaid&theme=dark)](https://github.com/Le-monde-d-Ecorte/sleepymaid)
 [![robotantoine](https://github-readme-stats.vercel.app/api/pin/?username=Le-monde-d-Ecorte&repo=robotantoine&theme=dark)](https://github.com/Le-monde-d-Ecorte/robotantoine)
 
+-------
+
 **📊 Weekly development breakdown**
 
 <!--START_SECTION:waka-->
