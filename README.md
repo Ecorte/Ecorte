@@ -32,11 +32,11 @@ I code dumb stuff but sometimes they are pretty cool.
 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   42.35 % 
-TypeScript   1 hr 55 mins    ████████▒░░░░░░░░░░░░░░░░   33.05 % 
-HTML         52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-JSON         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Python       3 hrs 25 mins   ███████████▒░░░░░░░░░░░░░   45.77 % 
+TypeScript   1 hr 55 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.76 % 
+HTML         52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+JavaScript   38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 <!--END_SECTION:waka-->
 
