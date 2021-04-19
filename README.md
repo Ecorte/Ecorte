@@ -35,7 +35,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 > 🏆 269 Contributions in the Year 2021
  > 
-> 📦 297 Bytes Used in Github's Storage 
+> 📦 299 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
