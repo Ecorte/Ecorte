@@ -30,7 +30,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 -------
 <details>
-<summary> **🖥️ Github stats:** </summary>
+<summary> 🖥️ Github stats: </summary>
 <br>
      
 <!--START_SECTION:waka-->
