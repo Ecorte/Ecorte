@@ -30,7 +30,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 -------
 <details>
-<summary>**📊 Github Stats**</summary>
+<summary> **🖥️ Github stats:** </summary>
      
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
@@ -112,10 +112,6 @@ Python                   1 repo              █████░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</details>
-
--------
-
-**🖥️ Github stats:**
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ecorte&theme=dark&count_private=true)
+
+</details>
