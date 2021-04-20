@@ -29,7 +29,9 @@ I code dumb stuff but sometimes they are pretty cool.
 [![robotantoine](https://github-readme-stats.vercel.app/api/pin/?username=Le-monde-d-Ecorte&repo=robotantoine&theme=dark)](https://github.com/Le-monde-d-Ecorte/robotantoine)
 
 -------
-
+<details>
+<summary>📊 **Github Stats**</summary>
+     
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -109,6 +111,8 @@ Python                   1 repo              █████░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</details>
 
 -------
 
