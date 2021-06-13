@@ -31,7 +31,7 @@ I code dumb stuff but sometimes they are pretty cool.
 
 > 🏆 358 Contributions in the Year 2021
  > 
-> 📦 399 Bytes Used in Github's Storage 
+> 📦 400 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ecorte/Ecorte/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2021
+ Last Updated on 13/06/2021
 <!--END_SECTION:waka-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ecorte&theme=dark&count_private=true)
