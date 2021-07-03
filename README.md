@@ -20,3 +20,8 @@ I code dumb stuff but sometimes they are pretty cool.
 - [Twitter](https://twitter.com/Ecorteyt)
 - [Twitch](https://www.twitch.tv/ecorte)
 - [Youtube](https://www.youtube.com/channel/UCOLeHMtMSE4w6jpFGh1AAdA)
+
+
+**🖥️ Github stats**
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
