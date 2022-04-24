@@ -10,7 +10,6 @@ I code dumb stuff but sometimes they are pretty cool.
      - CSS
      - JavaScript
 - 📫 How to reach me: Ecorte#0003 on discord.
-- 😄 Pronouns: he/him
 
 -------
 
