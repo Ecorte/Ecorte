@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Ecorte and I'm 15.
+I’m Ecorte and I'm 16.
 I code dumb stuff but sometimes they are pretty cool.
 
 -------
